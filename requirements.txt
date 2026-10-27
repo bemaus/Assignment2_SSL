@@ -5,3 +5,4 @@ tensorboard
 timm==0.9.7
 numpy
 Pillow
+matplotlib
