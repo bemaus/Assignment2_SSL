@@ -1,5 +1,3 @@
-# CNN Challenge: Small Image Dataset Classification
-
 ## ITCS 6169 – Assignment 2
 This project explores how different attention methods perform in self-supervised learning. The experiments are based on the DINO (self-**DI**stillation with **NO** labels) framework using Vision Transformers (ViTs). They cover standard DINO and three sparse attention patterns: random, window, and dilated.
 
@@ -30,16 +28,8 @@ Use the headers provided at the top of each notebook if running in Google Colab 
 
 ## Evaluation
 
-The models are saved in the  
-
-## Final Results Can Be Found at the Bottom of ITCS_6169_8169_Assignment1_2026_Starter.ipynb
-Run test.ipynb in CNN to see every model tested.
-
-## Evaluation
-
 All trained models are saved in the `Models` folder and can be compared in `evaluate.ipynb`.
 
-*Note: `evaluate.ipynb` is not implemented yet.*
 
 ## References
 
