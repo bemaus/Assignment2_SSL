@@ -7,3 +7,4 @@ numpy
 Pillow
 matplotlib
 scikit-learn
+sklearn

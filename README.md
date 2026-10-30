@@ -12,7 +12,6 @@ cd Assignment2_SSL
 python3 -m venv venv
 source venv/bin/activate        
 pip install -r requirements.txt
-pip install jupyter
 ```
 
 ## Running
@@ -24,6 +23,8 @@ Open a notebook and run all cells:
 
 Each notebook trains the model, saves the teacher weights to `Models/`, runs k-NN evaluation
 Individual settings can be overridden without editing a file:
+
+Use the headers provided at the top of each notebook if running in Google Colab and make sure to first download the Assignment2_SSL in a google Drive folder.
 
 **Note:** The notebooks use relative paths (`data/train`, `data/test`, `Models/`). If you get a "file not found" error, update those paths to match where you launched Jupyter from.
 
